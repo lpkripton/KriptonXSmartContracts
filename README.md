@@ -1,6 +1,6 @@
 # KriptonX SmartContracts
 
-## Test
+## About
 
 Kripton X Smart Contracts.
 
